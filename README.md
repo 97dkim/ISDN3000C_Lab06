@@ -4,7 +4,7 @@ This project captures images using a USB camera when a physical button is presse
 
 ## 🖼️ Circuit Diagram
 
-
+[Circuit Image](circuit.jpg)
 
 ## 🛠️ Setup
 
